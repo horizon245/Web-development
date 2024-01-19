@@ -1,4 +1,4 @@
-This is my first git 
+~This is my first git 
 <br>
 Horizon Thisina
-
+Full Stack Developer
